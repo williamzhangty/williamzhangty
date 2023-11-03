@@ -1,7 +1,7 @@
 ![](./assets/datascience-hero1.jpg)
 
 ### About me 👋
-Hi, I am William. I am a data scientist with an outstanding track record. I have successfully led multiple projects as a technical leader. These projects involve data extraction, data transformation, analysis, modeling, and strategy development, helping clients make data-driven decisions to fuel growth. 
+Hi, I am William. I am a data analyst with an outstanding track record. I have successfully led multiple projects as a technical leader. These projects involve data extraction, data transformation, analysis, modeling, and strategy development, helping clients make data-driven decisions to fuel growth. 
 
 I currently study at the Mannitoba Institute of Trades and Technology, majoring in Software Developer.I 
 
