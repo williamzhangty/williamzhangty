@@ -1,4 +1,6 @@
-### Hi there 👋
+![](./datascience-hero.jpg)
+
+### About me 👋
 
 <!--
 **williamzhangty/williamzhangty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
