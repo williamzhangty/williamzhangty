@@ -5,7 +5,7 @@ Hi, I am William. I am a data analyst with an outstanding track record. I have s
 
 I currently study at the Mannitoba Institute of Trades and Technology, majoring in Software Developer.
 
-I am looking for a job of data scientst in Winnepg.
+I am looking for a job of data scientist in Winnepg.
 
 I am expertised in following skills:
 
