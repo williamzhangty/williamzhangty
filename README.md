@@ -74,7 +74,7 @@ Delivered a systematic data-driven credit risk management solution from scratch 
 - Developed and validated the risk parameter (PD/LGD/EAD) models using SQL and Python by directing the analytics team, enabling the bank to meet Basel II regulatory requirements and attain targeted goals.
 - Delivered effective suggestions for improvement for the Data Warehouse.
 
-# FICO (2017-2059)
+# FICO (2017-2019)
 ## Analytics Consulting Manager
 
 Built Data Warehouses and pipelines. Developed and validated various predictive models using SAS, Python, SQL, and R. Developed strategies by applying models. Designed reports monitoring model performance. Managed projects to ensure delivery on time and on budget.
